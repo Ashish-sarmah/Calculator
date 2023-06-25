@@ -1,5 +1,6 @@
 # Calculator
-A calculator that can perform addition, subtraction, and multiplication using ARM Simulator
+A calculator that can perform addition, subtraction, and multiplication using ARM Simulator.
+
 .section .data
  @d1: .word  0x92345678, 0x92381234
 @ d1 : .word  0x12345678, 0x12381234
