@@ -6,8 +6,8 @@ A calculator that can perform addition, subtraction, and multiplication using AR
 @ d1 : .word  0x12345678, 0x12381234
 @d1 :  .word      0x000ed000, 0x7ff68000
 @d1: .word  0x12345678, 0x92381234
-d1: .word 0x8000d000, 0x7ff68000
 
+d1: .word 0x8000d000, 0x7ff68000
 d2: .word 0x7fffffff, 0x8007ffff, 0xfff80000, 0x00080000
 d3: .word 0xffffffff
 
